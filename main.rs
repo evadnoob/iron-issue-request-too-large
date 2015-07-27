@@ -10,7 +10,7 @@ extern crate router;
 use persistent::Read;
 use iron::status;
 use iron::prelude::*;
-mod middleware;
+//mod middleware;
 mod myrouter;
 
 #[derive(Debug, Clone, RustcDecodable)]
