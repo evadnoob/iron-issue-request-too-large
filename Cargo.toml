@@ -1,5 +1,5 @@
 [package]
-name = "gist"
+name = "iron-issue-request-too-large"
 version = "0.1.0"
 authors = ["David Boon <david.boon@gmail.com>"]
 
