@@ -10,7 +10,6 @@ extern crate router;
 use persistent::Read;
 use iron::status;
 use iron::prelude::*;
-mod logging;
 mod middleware;
 mod myrouter;
 
