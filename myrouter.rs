@@ -9,7 +9,7 @@ use persistent::Read;
 use iron::prelude::*;
 use iron::status;
 use router::Router;
-use middleware;
+//use middleware;
 
 //const MAX_BODY_LENGTH: usize = 1024 * 1024 * 10;
 
