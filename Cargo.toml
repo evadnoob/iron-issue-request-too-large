@@ -1,0 +1,14 @@
+[package]
+name = "gist"
+version = "0.1.0"
+authors = ["David Boon <david.boon@gmail.com>"]
+
+[dependencies]
+iron = "*"
+bodyparser = "*"
+persistent = "*"
+rustc-serialize = "*"
+router = "*"
+time = "*"
+log = "0.3.1"
+env_logger = "0.3.1"
