@@ -1,0 +1,19 @@
+logging initializing....
+logging...
+checking for level. INFO
+2015-07-26 21:01:11 INFO [the_dba_service:src/main.rs:38] - starting iron...
+logging...
+checking for level. INFO
+2015-07-26 21:01:16 INFO [the_dba_service::myrouter:src/myrouter.rs:35] - handling request.
+query /
+Request took: 0.162036 ms
+logging...
+checking for level. ERROR
+2015-07-26 21:01:16 ERROR [hyper::server:/Users/daveboon/.cargo/registry/src/github.com-0a35038f75765ae4/hyper-0.6.5/src/server/mod.rs:252] - request error = TooLarge
+
+
+
+
+
+
+
